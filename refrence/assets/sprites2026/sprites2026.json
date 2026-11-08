@@ -1,0 +1,159 @@
+{
+ "frame_w": 24,
+ "frame_h": 36,
+ "anchor": [
+  12,
+  35
+ ],
+ "outfits": {
+  "suit": {
+   "main": {
+    "file": "harry_suit_main.png",
+    "rows": [
+     "back",
+     "front",
+     "left",
+     "right"
+    ],
+    "cols": [
+     "idle",
+     "wave (back) / sing (front) / breathe (side)",
+     "walk0",
+     "walk1",
+     "walk2",
+     "walk3"
+    ],
+    "fps": 8
+   },
+   "run": {
+    "file": "harry_suit_run.png",
+    "rows": [
+     "back",
+     "front",
+     "left",
+     "right"
+    ],
+    "frames": 6,
+    "fps": 12
+   },
+   "sprint": {
+    "file": "harry_suit_sprint.png",
+    "rows": [
+     "back",
+     "front",
+     "left",
+     "right"
+    ],
+    "frames": 6,
+    "fps": 12,
+    "note": "open-armed laps, As It Was finale"
+   },
+   "hop": {
+    "file": "harry_suit_hop.png",
+    "rows": [
+     "back",
+     "front",
+     "left",
+     "right"
+    ],
+    "frames": 4,
+    "fps": 8,
+    "note": "crouch, lift, tuck, land; add ~6px jump height in code on frames 1-2"
+   },
+   "dance": {
+    "file": "harry_suit_dance.png",
+    "frames": 8,
+    "fps": 6,
+    "note": "Dance No More sashay, original steps, facing the crowd"
+   },
+   "emotes": {
+    "file": "harry_suit_emotes.png",
+    "rows": [
+     "bow (3)",
+     "blow kiss (3)",
+     "peace sign (2)"
+    ],
+    "fps": 4
+   }
+  },
+  "shirtsleeves": {
+   "main": {
+    "file": "harry_shirtsleeves_main.png",
+    "rows": [
+     "back",
+     "front",
+     "left",
+     "right"
+    ],
+    "cols": [
+     "idle",
+     "wave (back) / sing (front) / breathe (side)",
+     "walk0",
+     "walk1",
+     "walk2",
+     "walk3"
+    ],
+    "fps": 8
+   },
+   "run": {
+    "file": "harry_shirtsleeves_run.png",
+    "rows": [
+     "back",
+     "front",
+     "left",
+     "right"
+    ],
+    "frames": 6,
+    "fps": 12
+   },
+   "sprint": {
+    "file": "harry_shirtsleeves_sprint.png",
+    "rows": [
+     "back",
+     "front",
+     "left",
+     "right"
+    ],
+    "frames": 6,
+    "fps": 12,
+    "note": "open-armed laps, As It Was finale"
+   },
+   "hop": {
+    "file": "harry_shirtsleeves_hop.png",
+    "rows": [
+     "back",
+     "front",
+     "left",
+     "right"
+    ],
+    "frames": 4,
+    "fps": 8,
+    "note": "crouch, lift, tuck, land; add ~6px jump height in code on frames 1-2"
+   },
+   "dance": {
+    "file": "harry_shirtsleeves_dance.png",
+    "frames": 8,
+    "fps": 6,
+    "note": "Dance No More sashay, original steps, facing the crowd"
+   },
+   "emotes": {
+    "file": "harry_shirtsleeves_emotes.png",
+    "rows": [
+     "bow (3)",
+     "blow kiss (3)",
+     "peace sign (2)"
+    ],
+    "fps": 4
+   }
+  }
+ },
+ "dancers": {
+  "file": "dancers_dance.png",
+  "rows": [
+   "dancer A (stands on Harry's left)",
+   "dancer B (mirrored, stands on his right)"
+  ],
+  "frames": 8,
+  "fps": 6
+ }
+}
