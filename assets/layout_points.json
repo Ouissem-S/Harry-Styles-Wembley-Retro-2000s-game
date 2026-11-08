@@ -1,0 +1,29 @@
+{
+ "image": "concert_pixel_640x360.png",
+ "width": 640,
+ "height": 360,
+ "intersection": [
+  331.0,
+  203.1
+ ],
+ "runway_stage_end_near": [
+  117.4,
+  195.3
+ ],
+ "runway_stage_end_far": [
+  211.5,
+  172.6
+ ],
+ "runway_far_end": [
+  550.0,
+  232.1
+ ],
+ "arch_near": [
+  426.9,
+  236.5
+ ],
+ "arch_far": [
+  433.6,
+  194.8
+ ]
+}
