@@ -218,3 +218,10 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Together Runway: rendered songs and saved best scores
+.cache/
+best_scores.json
+
+# macOS Finder metadata
+.DS_Store
